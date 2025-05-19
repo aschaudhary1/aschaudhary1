@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @aschaudhary1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi, I’m @A S Chaudhary
 
-<!---
-aschaudhary1/aschaudhary1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 DevOps Engineer | CI/CD Specialist | Cloud & Infrastructure Automation Expert
+
+## 👀 I’m interested in
+
+🔹 Continuous Integration & Deployment (CI/CD)  
+🔹 Infrastructure as Code (Terraform, Ansible)  
+🔹 Containerization & Orchestration (Docker, Kubernetes)  
+🔹 Cloud Platforms (AWS, Azure, GCP)  
+🔹 Monitoring & Logging (Prometheus, Grafana, ELK Stack)
+
+## 🌱 I’m currently learning
+
+📌 GitOps & Progressive Delivery  
+📌 Service Mesh (Istio, Linkerd)  
+📌 Advanced Kubernetes Security & Policy Management  
+📌 Multi-cloud DevOps Strategies
+
+## 💞️ I’m looking to collaborate on
+
+✅ Cloud-native application deployments  
+✅ Open-source DevOps tooling and automation  
+✅ Scalable infrastructure and platform engineering
+
+## 📫 Contact
+
+📧 Email: a.s.chaudhary.devops@gmail.com
